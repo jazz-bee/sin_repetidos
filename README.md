@@ -14,7 +14,7 @@ Ejemplos:
  Ej3: "AABB", 1 => "AB"
 
 
-## Pseudocodigo
+## Idea
  1) recorrerlo hasta el final del string
  2) leer caracter
  3) guardar caracter
